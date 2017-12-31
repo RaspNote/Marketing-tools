@@ -12,6 +12,7 @@ Awesome list of Marketing tools for best web driven growth.
 ## A/B tools
 
 - <a href="optimizely.com">Optimizely</a> Run experiments across the website.
+- <a href="https://www.crazyegg.com/">Crazyegg:</a> See what works, track the users view on the website content.
 
 ## Keywords
 
@@ -25,3 +26,12 @@ Awesome list of Marketing tools for best web driven growth.
 ## Custom visitor tracking
 
 - <a href="scrolldepth.parsnip.io">Scrooll Depth:</a> google analytics plugin for measuring page scrolling.
+
+## Strategies
+
+- <a href="https://www.gkogan.co/blog/usability-testing-case-study/">Usability Testing:</a> startups needs to speak with clients to understand their needs. How-to
+- <a href="https://www.gkogan.co/blog/alternative-pages/">Alternative Pages:</a> redirect searches of alternatives of bigger competitors.
+
+## Draw Diagrams
+
+- <a href="https://www.gliffy.com/">Gliffy:</a>
