@@ -4,10 +4,10 @@ Awesome list of Marketing tools for best web-driven growth.
 
 # Checklist
 
-Step 1: Planning (Lead Definition, Resource/Tools Used, Results Tracking Methodology and Budget)
-Step 2: Preparation (Common sense tools to improve Ad/Content performance and collect data)
-Step 3: Execution (Landing Page and Form, CRM Integration and Tracking, and Campaign Setup)
-Step 4: Evaluation (Counting Leads and CPQL, and Tracking Progress)
+<p> Step 1: Planning (Lead Definition, Resource/Tools Used, Results Tracking Methodology and Budget) </p>
+<p> Step 2: Preparation (Common sense tools to improve Ad/Content performance and collect data) </p>
+<p> Step 3: Execution (Landing Page and Form, CRM Integration and Tracking, and Campaign Setup) </p>
+<p> Step 4: Evaluation (Counting Leads and CPQL, and Tracking Progress) </p>
 
 ## Step 1: Planning
 
