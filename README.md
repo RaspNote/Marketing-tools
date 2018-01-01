@@ -2,66 +2,66 @@
 
 Awesome list of Marketing tools for best web-driven growth.
 
-# Step-by-Step Checklist
+# Checklist
 
-Step 1: Planning (Lead Definition, Resource/Tools Used, Results Tracking Methodology and Budget)[
+Step 1: Planning (Lead Definition, Resource/Tools Used, Results Tracking Methodology and Budget)
 Step 2: Preparation (Common sense tools to improve Ad/Content performance and collect data)
 Step 3: Execution (Landing Page and Form, CRM Integration and Tracking, and Campaign Setup)
 Step 4: Evaluation (Counting Leads and CPQL, and Tracking Progress)
 
 ## Step 1: Planning
 
-### Strategies
+### Strategy
 
-- (https://www.gkogan.co/blog/usability-testing-case-study/) [Usability Testing:] startups needs to speak with clients to understand their needs. How-to
-- (https://www.gkogan.co/blog/alternative-pages/)  [Alternative Pages:] redirect searches of alternatives of bigger competitors.
-- (https://support.google.com/analytics/answer/1033863?hl=en) [Advanced AdWord]
+- <a href="https://www.gkogan.co/blog/usability-testing-case-study/">Usability Testing:</a> startups needs to speak with clients to understand their needs. How-to
+- <a href="https://www.gkogan.co/blog/alternative-pages/">Alternative Pages:</a> redirect searches of alternatives of bigger competitors.
+- <a href="https://support.google.com/analytics/answer/1033863?hl=en">Advanced AdWord</a>
 
 ### Keywords
 
-- (https://adwords.google.com/home/tools/keyword-planner/) [AdWord Keyword Planner:] get the most popular keywrds to your specific audience.
+- <a href="https://adwords.google.com/home/tools/keyword-planner/">AdWord Keyword Planner:</a> get the most popular keywrds to your specific audience.
 
 ## Step 2: Preparation
 
 ### Analytics
 
-- (www.segment.com) [Segment:] data analytics integration. Takes data from many sourses and with simple API transfers to relates platforms. Example between Google Analytics and salesforce.
-- (www.dominodatalab.com) [Domino Data Lab:] Data analytics collaboration.
-- (www.etleap.com) [Etleap:] Send data to RedShift.
+- <a href="www.segment.com">Segment</a>: data analytics integration. Takes data from many sourses and with simple API transfers to relates platforms. Example between Google Analytics and salesforce.
+- <a href="dominodatalab.com">Domino Data Lab</a> Data analytics collaboration.
+- <a href="etleap.com">Etleap:</a> Send data to RedShift.
 
 ### Webside performance tests
 
-- (http://yslow.org/) [YSlow:] general speed benchmark.
-- (https://developers.google.com/speed/pagespeed/insights/) [PageSpeed Tools:] suggestions based on the elements of a page.
+- <a href="http://yslow.org/">YSlow:</a> general speed benchmark.
+- <a href="https://developers.google.com/speed/pagespeed/insights/">PageSpeed Tools:</a> suggestions based on the elements of a page.
 
 ### Custom visitor tracking
 
-- (http://scrolldepth.parsnip.io) [Scrooll Depth:] google analytics plugin for measuring page scrolling.
+- <a href="scrolldepth.parsnip.io">Scrooll Depth:</a> google analytics plugin for measuring page scrolling.
 
 ## Step 3: Execution
 
 ### A/B tools
 
-- (http://optimizely.com) [Optimizely:] Run experiments across the website. Price 17€/m.
-- (https://www.crazyegg.com/) [Crazyegg:] See what works, track the users view on the website content.
-- (https://vwo.com/) [VWO:] Just another platform (alternative to optimizely) [
+- <a href="optimizely.com">Optimizely</a> Run experiments across the website. Price 17€/m.
+- <a href="https://www.crazyegg.com/">Crazyegg:</a> See what works, track the users view on the website content.
+- <a href="https://vwo.com/">VWO:</a> Just another platform (alternative to optimizely)
 
 ### Landing Pages
 
-- (https://unbounce.com/) [Unbounce:]
-- (https://instapage.com/) [Instantapage:]
-- (https://www.formstack.com/) [Formstack:] create your own.
+- <a href="https://unbounce.com/">Unbounce</a>
+- <a href="https://instapage.com/">Instantapage</a>
+- <a href="https://www.formstack.com/">Formstack:</a> create your own.
 
 ## Step 4: Evaluation
 
 ### Calculate conversions
 
-- (https://support.google.com/analytics/answer/1032415?hl=en) [AdWords goals:]
-- (https://support.google.com/analytics/answer/1033068) [AdWord custom event:]
+- <a href="https://support.google.com/analytics/answer/1032415?hl=en">AdWords goals</a>
+- <a href="https://support.google.com/analytics/answer/1033068">AdWord custom event</a>
 
 ### Flow Testing
 
-- (https://www.gliffy.com/) [Gliffy:] Draw diagrams.
+- <a href="https://www.gliffy.com/">Gliffy:</a> Draw diagrams.
 
 ### Evaluate Results
 
