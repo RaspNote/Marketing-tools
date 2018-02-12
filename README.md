@@ -52,6 +52,14 @@ Awesome list of Marketing tools for best web-driven growth.
 - <a href="https://instapage.com/">Instantapage</a>
 - <a href="https://www.formstack.com/">Formstack:</a> create your own.
 
+### Automation
+
+- <a href="https://buffer.com/">Buffer:</a> Buffer is a simple way to schedule posts, track performance of manage all your accounts in one place.
+
+### Content search
+
+- <a href="https://www.algolia.com/">Algolia:</a> API platform for building search into structured content.
+
 ## Step 4: Evaluation
 
 ### Calculate conversions
